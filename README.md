@@ -82,14 +82,19 @@ jupyter notebook
 
 ## **🧠 Model Development**
 
-**Describe (as applicable):**
+Models Used:
+* CNN with simple architecture (>10 layers)
+* CNN with transfer learning (InceptionV3, MobileNet)
 
-* Model(s) used (e.g., CNN with transfer learning, regression models)
-CNN with simple architecture (>10 layers)
-CNN with transfer learning
-* Feature selection and Hyperparameter tuning strategies
+Hyperparameter tuning strategies:
+* Early Stopping
+
+Training Setup
 * Training setup (e.g., % of data for training/validation, evaluation metric, baseline performance)
-F1 Scores…
+* 80/20 Train/Test Split
+* Rescaling Image
+* Image Transformation
+* F1 Score
 
 ---
 
