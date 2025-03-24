@@ -56,7 +56,7 @@ jupyter notebook
 
 ---
 
-## **🏗️ Project Overview**
+## **🏗️ Project Overview (TODO)**
 
 **Describe:**
 
@@ -66,7 +66,7 @@ jupyter notebook
 
 ---
 
-## **📊 Data Exploration**
+## **📊 Data Exploration (TODO)**
 
 **Describe:**
 
@@ -93,7 +93,7 @@ F1 Scores…
 
 ---
 
-## **📈 Results & Key Findings**
+## **📈 Results & Key Findings (TODO)**
 
 **Describe (as applicable):**
 
@@ -108,7 +108,7 @@ F1 Scores…
 
 ---
 
-## **🖼️ Impact Narrative**
+## **🖼️ Impact Narrative (TODO)**
 
 **Answer the relevant questions below based on your competition:**
 
@@ -123,7 +123,7 @@ Check out [this guide](https://drive.google.com/file/d/1kYKaVNR\_l7Abx2kebs3AdDi
 
 ---
 
-## **🚀 Next Steps & Future Improvements**
+## **🚀 Next Steps & Future Improvements (TODO)**
 
 **Address the following:**
 
@@ -133,7 +133,7 @@ Check out [this guide](https://drive.google.com/file/d/1kYKaVNR\_l7Abx2kebs3AdDi
 
 ---
 
-## **📄 References & Additional Resources**
+## **📄 References & Additional Resources (TODO)**
 
 * Cite any relevant papers, articles, or tools used in your project
 
