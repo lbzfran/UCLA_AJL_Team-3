@@ -88,12 +88,12 @@ Models Used:
 
 Hyperparameter tuning strategies:
 * Early Stopping
+* Reducing Learning Rate
 
-Training Setup
-* Training setup (e.g., % of data for training/validation, evaluation metric, baseline performance)
+Training Setup:
 * 80/20 Train/Test Split
 * Rescaling Image
-* Image Transformation
+* Image Transformation (rotation, shifting, brightness, etc.)
 * F1 Score
 
 ---
