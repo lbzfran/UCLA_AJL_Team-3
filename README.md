@@ -5,11 +5,11 @@
 | Name | GitHub Handle | Contribution |
 | - | - | - |
 | Annabelle Ni | @acni100 | Model Development, Evaluation, and Performance Tuning |
-| Belle Lopez | @Belleairr | TODO |
+| Belle Lopez | @Belleairr | 
 | Henry Avila | @HenryA01 | Attempted image augmentation with the dataset |
 | Liam Bagabag | @lbzfran | Tested Pre-trained models, Model Training |
-| Rebecca Su | @rebecca-123 | TODO |
-| Sonya Kim | @sonyakim-dev | TODO |
+| Rebecca Su | @rebecca-123 | Model Development/Fine-Tuning and Model Evaluation |
+| Sonya Kim | @sonyakim-dev | 
 
 ---
 
